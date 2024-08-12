@@ -28,3 +28,7 @@ After running the application, you can access the following endpoints:
 
 - REST API: http://0.0.0.0:8080/api/
 - Admin UI: http://0.0.0.0:8080/_/
+
+## 3. Use the Application!
+To see writon-api documentation get in </> API Preview: ![api preview](/assets/images/image-1.png)
+And check all available endpoints: <br /> ![available endpoints](/assets/images/image-2.png)
